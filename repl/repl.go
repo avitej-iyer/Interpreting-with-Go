@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"Interpreting-with-Go/lexer"
-	"Interpreting-with-Go/tokens"
+	"Splice-Core/lexer"
+	"Splice-Core/tokens"
 )
 
 const PROMPT = ">> "

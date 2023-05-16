@@ -1,6 +1,6 @@
 package lexer
 
-import "Interpreting-with-Go/tokens"
+import "Splice-Core/tokens"
 
 type Lexer struct {
 	input        string

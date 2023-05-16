@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"Interpreting-with-Go/repl"
+	"Splice-Core/repl"
 	"os"
 	"os/user"
 )

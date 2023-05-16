@@ -1,3 +1,3 @@
-module Interpreting-with-Go
+module Splice-Core
 
 go 1.20

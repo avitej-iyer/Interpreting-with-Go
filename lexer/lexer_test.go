@@ -3,7 +3,7 @@ package lexer
 import (
 	"testing"
 
-	"Interpreting-with-Go/tokens"
+	"Splice-Core/tokens"
 )
 
 func TestNextToken(t *testing.T) {
