@@ -12,8 +12,8 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Printf("Hello %s! This is my language Splice (currently under developement)\n",
+	fmt.Printf("Hello %s! This is the Splice programming language!\n",
 		user.Username)
-	fmt.Printf("Please type in commands below\n")
+	fmt.Printf("Feel free to type in commands\n")
 	repl.Start(os.Stdin, os.Stdout)
 }

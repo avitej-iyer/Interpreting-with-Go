@@ -1,6 +1,6 @@
 package lexer
 
-import "Splice-Core/tokens"
+import "Splice-Core/token"
 
 type Lexer struct {
 	input        string

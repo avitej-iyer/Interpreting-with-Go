@@ -3,7 +3,7 @@ package lexer
 import (
 	"testing"
 
-	"Splice-Core/tokens"
+	"Splice-Core/token"
 )
 
 func TestNextToken(t *testing.T) {
