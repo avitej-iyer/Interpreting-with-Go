@@ -1,0 +1,2 @@
+# Splice-Core
+Splice is a compiled programming language tath started as a small experiment in lower level programming, but has evolved into a multi-month passion project. Written entirely in Go, Splice support memory alocation and deallocation, multiple data types, caching and strict typing. You can open the splice console by clonin gthe code above and running main.go (provided you have Go installed on your computer).
